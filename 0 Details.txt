@@ -1,0 +1,13 @@
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+Instruction for local
+
+1. download xampp
+2. go to http://localhost/phpmyadmin/index.php?route=/server/databases
+3. create database with name inventory_system
+4. import the file inventory_system.sql
+5. access http://localhost/inventorysystem_php/index.php
+
